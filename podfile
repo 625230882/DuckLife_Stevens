@@ -1,0 +1,3 @@
+target 'StevensLife' do
+	pod 'UIScrollView-InfiniteScroll'
+end
